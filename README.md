@@ -68,13 +68,13 @@ A system for managing and monitoring drones, providing APIs for controlling dron
 
 ## 📊 GitHub Stats
 
-![Dat GitHub stats](https://github-readme-stats.vercel.app/api?username=tiendat1631\&show_icons=true\&theme=tokyonight)
+![Dat GitHub stats](https://github-readme-stats.vercel.app/api?username=tiendat1631&show_icons=true&theme=tokyonight&count_private=true&v=1)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiendat1631\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiendat1631&layout=compact&theme=tokyonight&v=1)
 
 ---
 
